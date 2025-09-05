@@ -142,7 +142,7 @@ export const dummyCourses = [
                         lectureId: "lecture1",
                         lectureTitle: "What is JavaScript?",
                         lectureDuration: 600,
-                        lectureUrl: "https://example.com/lectures/what-is-js",
+                        lectureUrl: "https://youtu.be/W6NZfCO5SIk",
                         isPreviewFree: true,
                         lectureOrder: 1
                     },
@@ -150,7 +150,7 @@ export const dummyCourses = [
                         lectureId: "lecture2",
                         lectureTitle: "Setting Up Your Environment",
                         lectureDuration: 900,
-                        lectureUrl: "https://example.com/lectures/setup-env",
+                        lectureUrl: "https://youtu.be/Ukg_U3CnJWI",
                         isPreviewFree: false,
                         lectureOrder: 2
                     }
@@ -165,7 +165,7 @@ export const dummyCourses = [
                         lectureId: "lecture3",
                         lectureTitle: "Understanding Variables",
                         lectureDuration: 750,
-                        lectureUrl: "https://example.com/lectures/variables",
+                        lectureUrl: "https://youtu.be/B7wHpNUUT4Y",
                         isPreviewFree: true,
                         lectureOrder: 1
                     },
@@ -173,27 +173,19 @@ export const dummyCourses = [
                         lectureId: "lecture4",
                         lectureTitle: "Data Types in JavaScript",
                         lectureDuration: 800,
-                        lectureUrl: "https://example.com/lectures/data-types",
+                        lectureUrl: "https://youtu.be/_ApRMRGI-6g",
                         isPreviewFree: false,
                         lectureOrder: 2
                     }
                 ]
             }
         ],
-        educator: "605c72efb3f1c2b1f8e4e1a1", 
+        educator: "605c72efb3f1c2b1f8e4e1a1",
         courseRatings: [
-            {
-                userId: "user1",
-                rating: 5
-            },
-            {
-                userId: "user2",
-                rating: 4
-            }
+            { userId: "user1", rating: 5 },
+            { userId: "user2", rating: 4 }
         ],
-        enrolledStudents: [
-        
-        ]
+        enrolledStudents: []
     },
     {
         courseTitle: "Advanced Python Programming",
@@ -221,7 +213,7 @@ export const dummyCourses = [
                         lectureId: "lecture1",
                         lectureTitle: "Lists and Tuples",
                         lectureDuration: 720,
-                        lectureUrl: "https://example.com/lectures/lists-tuples",
+                        lectureUrl: "https://youtu.be/W8KRzm-HUcc",
                         isPreviewFree: true,
                         lectureOrder: 1
                     },
@@ -229,7 +221,7 @@ export const dummyCourses = [
                         lectureId: "lecture2",
                         lectureTitle: "Dictionaries and Sets",
                         lectureDuration: 850,
-                        lectureUrl: "https://example .com/lectures/dicts-sets",
+                        lectureUrl: "https://youtu.be/daefaLgNkw0",
                         isPreviewFree: false,
                         lectureOrder: 2
                     }
@@ -244,7 +236,7 @@ export const dummyCourses = [
                         lectureId: "lecture3",
                         lectureTitle: "Classes and Objects",
                         lectureDuration: 900,
-                        lectureUrl: "https://example.com/lectures/classes-objects",
+                        lectureUrl: "https://youtu.be/ZDa-Z5JzLYM",
                         isPreviewFree: true,
                         lectureOrder: 1
                     },
@@ -252,27 +244,19 @@ export const dummyCourses = [
                         lectureId: "lecture4",
                         lectureTitle: "Inheritance and Polymorphism",
                         lectureDuration: 950,
-                        lectureUrl: "https://example.com/lectures/inheritance-polymorphism",
+                        lectureUrl: "https://youtu.be/RSl87lqOXDE",
                         isPreviewFree: false,
                         lectureOrder: 2
                     }
                 ]
             }
         ],
-        educator: "605c72efb3f1c2b1f8e4e1a4", 
+        educator: "605c72efb3f1c2b1f8e4e1a4",
         courseRatings: [
-            {
-                userId: "user3",
-                rating: 5
-            },
-            {
-                userId: "user4",
-                rating: 3
-            }
+            { userId: "user3", rating: 5 },
+            { userId: "user4", rating: 3 }
         ],
-        enrolledStudents: [
-           
-        ]
+        enrolledStudents: []
     },
     {
         courseTitle: "Web Development Bootcamp",
@@ -300,7 +284,7 @@ export const dummyCourses = [
                         lectureId: "lecture1",
                         lectureTitle: "Introduction to HTML",
                         lectureDuration: 600,
-                        lectureUrl: "https://example.com/lectures/html-intro",
+                        lectureUrl: "https://youtu.be/pQN-pnXPaVg",
                         isPreviewFree: true,
                         lectureOrder: 1
                     },
@@ -308,7 +292,7 @@ export const dummyCourses = [
                         lectureId: "lecture2",
                         lectureTitle: "Styling with CSS",
                         lectureDuration: 720,
-                        lectureUrl: "https://example.com/lectures/css-styling",
+                        lectureUrl: "https://youtu.be/1Rs2ND1ryYc",
                         isPreviewFree: false,
                         lectureOrder: 2
                     }
@@ -323,7 +307,7 @@ export const dummyCourses = [
                         lectureId: "lecture3",
                         lectureTitle: "JavaScript Basics",
                         lectureDuration: 800,
-                        lectureUrl: "https://example.com/lectures/js-basics",
+                        lectureUrl: "https://youtu.be/W6NZfCO5SIk",
                         isPreviewFree: true,
                         lectureOrder: 1
                     },
@@ -331,27 +315,19 @@ export const dummyCourses = [
                         lectureId: "lecture4",
                         lectureTitle: "DOM Manipulation",
                         lectureDuration: 850,
-                        lectureUrl: "https://example.com/lectures/dom-manipulation",
+                        lectureUrl: "https://youtu.be/0ik6X4DJKCc",
                         isPreviewFree: false,
                         lectureOrder: 2
                     }
                 ]
             }
         ],
-        educator: "605c72efb3f1c2b1f8e4e1a7", 
+        educator: "605c72efb3f1c2b1f8e4e1a7",
         courseRatings: [
-            {
-                userId: "user5",
-                rating: 4
-            },
-            {
-                userId: "user6",
-                rating: 5
-            }
+            { userId: "user5", rating: 4 },
+            { userId: "user6", rating: 5 }
         ],
-        enrolledStudents: [
-           
-        ]
+        enrolledStudents: []
     },
     {
         courseTitle: "Data Science and Machine Learning",
@@ -379,7 +355,7 @@ export const dummyCourses = [
                         lectureId: "lecture1",
                         lectureTitle: "What is Data Science?",
                         lectureDuration: 600,
-                        lectureUrl: "https://example.com/lectures/what-is-data-science",
+                        lectureUrl: "https://youtu.be/X3paOmcrTjQ",
                         isPreviewFree: true,
                         lectureOrder: 1
                     },
@@ -387,7 +363,7 @@ export const dummyCourses = [
                         lectureId: "lecture2",
                         lectureTitle: "Data Collection and Cleaning",
                         lectureDuration: 720,
-                        lectureUrl: "https://example.com/lectures/data-collection",
+                        lectureUrl: "https://youtu.be/vy4T69D7d4M",
                         isPreviewFree: false,
                         lectureOrder: 2
                     }
@@ -402,7 +378,7 @@ export const dummyCourses = [
                         lectureId: "lecture3",
                         lectureTitle: "Supervised vs Unsupervised Learning",
                         lectureDuration: 800,
-                        lectureUrl: "https://example.com/lectures/supervised-unsupervised",
+                        lectureUrl: "https://youtu.be/7eh4d6sabA0",
                         isPreviewFree: true,
                         lectureOrder: 1
                     },
@@ -410,26 +386,18 @@ export const dummyCourses = [
                         lectureId: "lecture4",
                         lectureTitle: "Building Your First Model",
                         lectureDuration: 850,
-                        lectureUrl: "https://example.com/lectures/building-model",
+                        lectureUrl: "https://youtu.be/3CC4N4z3GJc",
                         isPreviewFree: false,
                         lectureOrder: 2
                     }
                 ]
             }
         ],
-        educator: "605c72efb3f1c2b1f8e4e1aa", 
+        educator: "605c72efb3f1c2b1f8e4e1aa",
         courseRatings: [
-            {
-                userId: "user7",
-                rating: 5
-            },
-            {
-                userId: "user8",
-                rating: 4
-            }
+            { userId: "user7", rating: 5 },
+            { userId: "user8", rating: 4 }
         ],
-        enrolledStudents: [
-
-        ]
+        enrolledStudents: []
     }
 ];
